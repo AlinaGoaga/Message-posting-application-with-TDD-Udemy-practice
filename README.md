@@ -1,25 +1,5 @@
-# README
+Built in Rails 5 to practice building a very simple message posting app using test driven development.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# TDD-Application-Udemy-practice
+Gems added : 
+    'rspec-rails', '~> 3.8'
+    'capybara'
